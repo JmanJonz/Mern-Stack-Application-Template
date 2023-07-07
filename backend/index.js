@@ -16,7 +16,7 @@ const path = require("path");
 app.set("views", path.join(__dirname, "frontend", "views")); // Your html must have .ejs ext instead of html
 
 app.get("/", (req, res) => {
-    res.send("Working Server yayaya");
+    res.send("Working Server yayaya changed path heyyaaa");
 })
 
 // using the express object to set up a server that is actively listening for requests on port 3000
