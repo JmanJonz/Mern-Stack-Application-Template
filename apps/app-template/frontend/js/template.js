@@ -1,1 +1,1 @@
-// JS for ________ view.
+// JS for ______ view.
